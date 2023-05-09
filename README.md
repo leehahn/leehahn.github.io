@@ -3,6 +3,12 @@
 # 이미지
 ![blackbike](https://user-images.githubusercontent.com/126740069/236963931-53653ffe-fcbf-43a2-9fa9-838ef2b9a99f.png)
 ![david](https://user-images.githubusercontent.com/126740069/236970228-a28bd2d8-8436-429c-82e0-20704103afee.jpg)
+![florian](https://user-images.githubusercontent.com/126740069/236973358-e9822e45-862c-4e56-adb6-64c28212c265.jpg)
+![IMG_1663](https://user-images.githubusercontent.com/126740069/236973377-48e149f1-a26b-41ef-8c42-a56166f06d0f.jpeg)
+![lap-1819651](https://user-images.githubusercontent.com/126740069/236973379-74ec9005-2841-4159-9aa9-08943568094e.jpg)
+![munbaik](https://user-images.githubusercontent.com/126740069/236973479-16554868-8bde-4cd2-951f-a5593cf495e0.jpg)
+
+https://user-images.githubusercontent.com/126740069/236973502-b154ad15-acb0-4fef-a097-9df217c04328.mp4
 # 자세
 ![기본](https://user-images.githubusercontent.com/126740069/236970585-f06e5c17-310b-49d4-bce2-e864878b1858.jpeg)
 ![아랫바](https://user-images.githubusercontent.com/126740069/236970590-bfa2cc25-04bb-4fd0-913e-9f03fef4121c.png)
