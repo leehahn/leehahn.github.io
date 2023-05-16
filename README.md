@@ -14,6 +14,7 @@ https://user-images.githubusercontent.com/126740069/236973502-b154ad15-acb0-4fef
 ![아랫바](https://user-images.githubusercontent.com/126740069/236970590-bfa2cc25-04bb-4fd0-913e-9f03fef4121c.png)
 ![tt](https://user-images.githubusercontent.com/126740069/236970630-e341144e-4dee-42fc-9e26-c3a56677465c.jpg)
 ![no hand](https://github.com/leehahn/leehahn.github.io/assets/126740069/92adeb6c-4eb3-4888-b03c-3d9adec0d906)
+# price
 # 100high
 ![propel](https://github.com/leehahn/leehahn.github.io/assets/126740069/00c3e387-b904-4115-8011-86f92f611a18)
 ![reacto 4000](https://github.com/leehahn/leehahn.github.io/assets/126740069/9ad0410c-8c25-4b1b-8602-37b9c879283e)
@@ -27,6 +28,12 @@ https://user-images.githubusercontent.com/126740069/236973502-b154ad15-acb0-4fef
 ![reacto](https://github.com/leehahn/leehahn.github.io/assets/126740069/d9e5c056-2031-4237-a252-2cba73ea6070)
 ![scultra2](https://github.com/leehahn/leehahn.github.io/assets/126740069/8127d787-4348-4eef-b727-12e837ec7d5d)
 ![scr2](https://github.com/leehahn/leehahn.github.io/assets/126740069/c904bc22-c54a-414f-b221-44c558f9f108)
+# guide
+![size](https://github.com/leehahn/leehahn.github.io/assets/126740069/797421a9-5ba3-4862-b82e-0ceeb6e04663)
+![구동계](https://github.com/leehahn/leehahn.github.io/assets/126740069/31747826-6078-4c45-a8bb-1a8c0cbf35a7)
+![guide2](https://github.com/leehahn/leehahn.github.io/assets/126740069/276a214f-9c17-4224-8ac4-0efe1ae7c1fc)
+![guide](https://github.com/leehahn/leehahn.github.io/assets/126740069/787a8fe9-9628-4346-9734-301fc66251fa)
+
 
 
 
