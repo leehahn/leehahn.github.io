@@ -7,7 +7,10 @@
 ![IMG_1663](https://user-images.githubusercontent.com/126740069/236973377-48e149f1-a26b-41ef-8c42-a56166f06d0f.jpeg)
 ![lap-1819651](https://user-images.githubusercontent.com/126740069/236973379-74ec9005-2841-4159-9aa9-08943568094e.jpg)
 ![munbaik](https://user-images.githubusercontent.com/126740069/236973479-16554868-8bde-4cd2-951f-a5593cf495e0.jpg)
-#동영상
+# 오디오
+https://github.com/leehahn/leehahn.github.io/assets/126740069/edef9e51-6ad5-4939-ab73-b83f0e281a34
+
+# 동영상
 https://user-images.githubusercontent.com/126740069/236973502-b154ad15-acb0-4fef-a097-9df217c04328.mp4
 # how
 ![기본](https://user-images.githubusercontent.com/126740069/236970585-f06e5c17-310b-49d4-bce2-e864878b1858.jpeg)
