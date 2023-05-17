@@ -53,6 +53,7 @@ https://user-images.githubusercontent.com/126740069/236973502-b154ad15-acb0-4fef
 ![helmet](https://github.com/leehahn/leehahn.github.io/assets/126740069/c8bf4420-e89d-4552-a3f3-8ef93c40f52c)
 ![cloth](https://github.com/leehahn/leehahn.github.io/assets/126740069/9ccf3b08-604f-456a-9223-7028d89bba07)
 ![shoe](https://github.com/leehahn/leehahn.github.io/assets/126740069/12fffdfb-7855-4f71-af58-ca5b35a1b01a)
+![glove](https://github.com/leehahn/leehahn.github.io/assets/126740069/e82173a6-c0d5-47e7-beb6-70f2a1d3d8dc)
 
 
 
