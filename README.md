@@ -42,7 +42,17 @@ https://user-images.githubusercontent.com/126740069/236973502-b154ad15-acb0-4fef
 ![구동계](https://github.com/leehahn/leehahn.github.io/assets/126740069/31747826-6078-4c45-a8bb-1a8c0cbf35a7)
 ![guide2](https://github.com/leehahn/leehahn.github.io/assets/126740069/276a214f-9c17-4224-8ac4-0efe1ae7c1fc)
 ![guide](https://github.com/leehahn/leehahn.github.io/assets/126740069/787a8fe9-9628-4346-9734-301fc66251fa)
-
+# equip
+![gogle](https://github.com/leehahn/leehahn.github.io/assets/126740069/b4eeec83-8ea9-4a39-a9e4-0d433458e83f)
+![gogle](https://github.com/leehahn/leehahn.github.io/assets/126740069/aaedf50a-d3a7-41ed-873c-e0479df569c8)
+![helmet2](https://github.com/leehahn/leehahn.github.io/assets/126740069/f1df9856-a6b6-45cc-bed9-c1720f5e92d3)
+![pants](https://github.com/leehahn/leehahn.github.io/assets/126740069/2efbf986-7215-47ca-a0f0-6f1a7dee8c81)
+![shoe3](https://github.com/leehahn/leehahn.github.io/assets/126740069/00a69449-39d5-4193-afff-8931c825bbe7)
+![chain](https://github.com/leehahn/leehahn.github.io/assets/126740069/4b2e11bb-3d55-42e3-a39c-931d23693222)
+![glove2](https://github.com/leehahn/leehahn.github.io/assets/126740069/4f2afa6b-7163-48e3-8817-2e4720fb6a13)
+![helmet](https://github.com/leehahn/leehahn.github.io/assets/126740069/c8bf4420-e89d-4552-a3f3-8ef93c40f52c)
+![cloth](https://github.com/leehahn/leehahn.github.io/assets/126740069/9ccf3b08-604f-456a-9223-7028d89bba07)
+![shoe](https://github.com/leehahn/leehahn.github.io/assets/126740069/12fffdfb-7855-4f71-af58-ca5b35a1b01a)
 
 
 
