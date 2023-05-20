@@ -14,6 +14,9 @@
     .leftsec { float: left; width: 60%;}
     article { float: left; width: 40%;}
     footer { width: 100%;}
+    button { position: absolute; top: 60%; left: 40%; background-color: gainsboro;
+    width: 120px; height: 50px; border-radius: 10px; font-size: 15px; border: 0px; }
+    .middle { width: 650px; height:450px; position: relative; margin: 0;}
         </style>
     </head>
     <body>
@@ -55,8 +58,13 @@
         <hr>
         <br>
         <table align="center">
-            <tr><td><a href="./100low.html"><img src="https://github.com/leehahn/leehahn.github.io/assets/126740069/b7855548-f09c-411a-b3a6-40e7e60592c8" width="550" height="400"></a></td>
-                <td><a href="./100high.html"><img src="https://github.com/leehahn/leehahn.github.io/assets/126740069/e0dff979-0cf3-4260-8281-ce0e1c41352b" width="550" height="400"></a></td>
+            <tr><td><div class="middle"><img src="https://github.com/leehahn/leehahn.github.io/assets/126740069/b7855548-f09c-411a-b3a6-40e7e60592c8" width="635" height="400">
+                <button onclick= "location.href='./100high.html'">100만원 이상</button>
+                <div style="position: absolute; top: 40%; left: 8%; color:white; font-size: 30px; "><b>100 HIGH</b></div>
+                </div></td>
+                <td><div class="middle"><img src="https://github.com/leehahn/leehahn.github.io/assets/126740069/e0dff979-0cf3-4260-8281-ce0e1c41352b" width="635" height="400">
+                    <button onclick= "location.href='./100low.html'">100만원 이하</button>
+                <div style="position: absolute; top: 40%; left: 8%; color:white; font-size: 30px; "><b>100 LOW</b></div></td>
             </tr>
         </table>
         <br><br>
