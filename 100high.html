@@ -11,6 +11,8 @@
     hr {margin-left: 200px; margin-right: 200px;}
     div {margin-left: 200px; margin-right: 200px;}
     pre {white-space: pre-wrap;}
+    .container { width: 1600px; margin: 0; transition: transform 0.5s; }
+    #inner { width: 400px; float: left; margin: 0;}
         </style>
     </head>
     <body>
@@ -32,16 +34,29 @@
         </p>
         <h4>중고</h4>
         <hr style="margin-right: 650px; margin-left: 650px;">
-        <table align="center">
-            <tr><td><img src="https://github.com/leehahn/leehahn.github.io/assets/126740069/a82299c4-c3e7-4a1b-a27e-b530a0f217f2" height="300px;" width="400px;"></td>
-                <td><img src="https://github.com/leehahn/leehahn.github.io/assets/126740069/bed6d859-799d-423c-b919-434b81577975" height="300px;" width="400px;"></td>
-            </tr>
-            <tr>
-                <td><img src="https://github.com/leehahn/leehahn.github.io/assets/126740069/9ad0410c-8c25-4b1b-8602-37b9c879283e" height="300px;" width="400px;"></td>
-                <td><img src="https://github.com/leehahn/leehahn.github.io/assets/126740069/00c3e387-b904-4115-8011-86f92f611a18" height="330px;" width="440px;"></td>
-            </tr>
-        </table>
-        <p> 시계방향으로 스페셜라이즈드 알레 스프린트 레드 훅, 트렉 에몬다 SL5, 메리다 리엑토 4000, 자이언트 프로펠 어드밴스 2이다. 
+        <div style="overflow: hidden; width: 400px;">
+        <div class = "container">
+            <div id="inner">
+            <img src="/Users/leehan/Downloads/가격별 로드/redhook.jpg" height="300px;" width="400px;">
+            </div>
+            <div id="inner">
+            <img src="/Users/leehan/Downloads/가격별 로드/sl5.jpg" height="300px;" width="400px;">
+            </div>
+            <div id="inner">
+            <img src="/Users/leehan/Downloads/가격별 로드/reacto 4000.jpeg" height="300px;" width="400px;">
+            </div>
+            <div id="inner">
+            <img src="/Users/leehan/Downloads/가격별 로드/propel.jpg" height="300px;" width="400px;">
+            </div>
+        </div>
+        </div>
+        <div>
+        <button class = "버튼1"> 1 </button>
+        <button class = "버튼2"> 2 </button>
+        <button class = "버튼3"> 3 </button>
+        <button class = "버튼4"> 4 </button>
+        </div>
+        <p> 1번부터 순서대로 스페셜라이즈드 알레 스프린트 레드 훅, 트렉 에몬다 SL5, 메리다 리엑토 4000, 자이언트 프로펠 어드밴스 2이다. 
             전부 105 구동계를 사용하는 풀 카본 로드 자전거이며 200만원대에서 구매 가능하다. 
         </p>
         <p>
@@ -51,5 +66,20 @@
 
 - José Antonio Viera-Gallo
         </b></i></pre>
+    
+    <script>
+         document.querySelector('.버튼1').addEventListener('click', function () {
+            document.querySelector('.container').style.transform = 'translate(0px)';
+        })
+        document.querySelector('.버튼2').addEventListener('click', function () {
+            document.querySelector('.container').style.transform = 'translate(-400px)';
+        })
+        document.querySelector('.버튼3').addEventListener('click', function () {
+            document.querySelector('.container').style.transform = 'translate(-800px)';
+        })
+        document.querySelector('.버튼4').addEventListener('click', function () {
+            document.querySelector('.container').style.transform = 'translate(-1200px)';
+        })
+    </script>
     </body>
     </html>
