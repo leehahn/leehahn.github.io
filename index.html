@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <title>로드 자전거</title>
     <style>
-@import url(https://fonts.googleapis.com/css?family=Roboto:400,700,500);
+@import url(https://fonts.googleapis.com/css2?family=Roboto:ital@1&display=swap);
         body {
             background: #fafafa;
             font-family: "Roboto", sans-serif;
@@ -64,12 +64,14 @@
     #icon {font-family: Arial, Helvetica, sans-serif; font-style: italic; 
     font-size: 20px; text-align: left;}
     .logo {width: 300px; height: 150px;}
-    .main {width: 700px; height:450px;}
+    .main {width: 650px; height:450px; position: relative;}
     footer {background-color: #1E1F21; 
         color: white; 
         width: 100%; 
         height: 300px;
     }
+    button { position: absolute; top: 70%; left: 40%; background-color: gainsboro;
+    width: 120px; height: 50px; border-radius: 10px; font-size: 15px; border: 0px; }
     </style>
 </head>
 <body>
@@ -137,12 +139,30 @@
         <section>
             <table align="center">
                 <tbody>
-                    <tr><td><div class="main"><img src="https://user-images.githubusercontent.com/126740069/236973358-e9822e45-862c-4e56-adb6-64c28212c265.jpg" width= "635" height="400"></div></td>
-                        <td><div class="main"><img src="https://user-images.githubusercontent.com/126740069/236970228-a28bd2d8-8436-429c-82e0-20704103afee.jpg" width= "635" height="400"></div></td>
+                    <tr><td><div class="main"><img src="https://user-images.githubusercontent.com/126740069/236973358-e9822e45-862c-4e56-adb6-64c28212c265.jpg" width= "635" height="400">
+                         <button onclick= "location.href='./road.html'">자전거 길</button>
+                    <div style="position: absolute; top: 40%; left: 35%; color:white; font-size: 30px; "><b>BICYCLE ROAD</b></div>
+                        </div></td>
+                        <td><div class="main"><img src="https://user-images.githubusercontent.com/126740069/236970228-a28bd2d8-8436-429c-82e0-20704103afee.jpg" width= "635" height="400">
+                            <button onclick= "location.href='./price.html'">가격별 로드</button>
+                            <div style="position: absolute; top: 30%; left: 43%; color:white; font-size: 30px; "><b>PRICE</b></div>
+                            <div style="position: absolute; top: 40%; left: 39%; color:white; font-size: 30px; "><b>100 HIGH</b></div>
+                            <div style="position: absolute; top: 50%; left: 39%; color:white; font-size: 30px; "><b>100 LOW</b></div>
+                        </div></td>
                         </tr>
                     <tr>
-                        <td><div class="main"><img src="https://user-images.githubusercontent.com/126740069/236973379-74ec9005-2841-4159-9aa9-08943568094e.jpg" width= "635" height="400"></div></td>
-                        <td><div class="main"><img src="https://user-images.githubusercontent.com/126740069/236973479-16554868-8bde-4cd2-951f-a5593cf495e0.jpg" width= "635" height="400"></div></td>
+                        <td><div class="main"><img src="https://user-images.githubusercontent.com/126740069/236973379-74ec9005-2841-4159-9aa9-08943568094e.jpg" width= "635" height="400">
+                            <button onclick= "location.href='how.html'">타는법</button>
+                            <div style="position: absolute; top: 30%; left: 43%; color:white; font-size: 30px; "><b>POSITION</b></div>
+                            <div style="position: absolute; top: 40%; left: 35%; color:white; font-size: 30px; "><b>AND</b></div>
+                            <div style="position: absolute; top: 50%; left: 44%; color:white; font-size: 30px; "><b>TIPS</b></div>
+                        </div></td>
+                        <td><div class="main"><img src="https://user-images.githubusercontent.com/126740069/236973479-16554868-8bde-4cd2-951f-a5593cf495e0.jpg" width= "635" height="400">
+                            <button onclick= "location.href='guide.html'">구매 가이드</button>
+                            <div style="position: absolute; top: 30%; left: 42%; color:white; font-size: 30px; "><b>EQUIPS</b></div>
+                            <div style="position: absolute; top: 40%; left: 46%; color:white; font-size: 30px; "><b>&&</b></div>
+                            <div style="position: absolute; top: 50%; left: 42%; color:white; font-size: 30px; "><b>TOOLS</b></div>
+                        </div></td>
                     </tr>
                 </tbody>
             </table>
