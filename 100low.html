@@ -11,6 +11,8 @@
     hr {margin-left: 200px; margin-right: 200px;}
     div {margin-left: 200px; margin-right: 200px;}
     pre {white-space: pre-wrap;}
+    .container { width: 1600px; margin: 0; transition: transform 0.5s; }
+    #inner { width: 400px; float: left; margin: 0; }
         </style>
     </head>
     <body>
@@ -23,15 +25,28 @@
         <br>
         <h4>신품</h4>
         <p> 입문 로드 4대장이다.</p>
-        <table align="center">
-            <tr><td><img src="https://github.com/leehahn/leehahn.github.io/assets/126740069/8127d787-4348-4eef-b727-12e837ec7d5d" height="300px;" width="400px;"></td>
-                <td><img src="https://github.com/leehahn/leehahn.github.io/assets/126740069/da088ff2-3431-4b50-9274-54369fd4c34a" height="250px;" width="400px;"></td>
-            </tr>
-            <tr>
-                <td><img src="https://github.com/leehahn/leehahn.github.io/assets/126740069/09a1e9b5-71b3-436a-9d6b-1a5e3c8dd806" height="380px;" width="400px;"></td>
-                <td><img src="https://github.com/leehahn/leehahn.github.io/assets/126740069/c904bc22-c54a-414f-b221-44c558f9f108" height="400px;" width="400px;"></td>
-            </tr>
-        </table>
+         <div style="overflow: hidden; width: 400px;">
+            <div class = "container">
+                <div id="inner">
+                <img src="/Users/leehan/Downloads/가격별 로드/scultra2.png" height="300px;" width="400px;">
+                </div>
+                <div id="inner">
+                <img src="/Users/leehan/Downloads/가격별 로드/allez.png" height="300px;" width="400px;">
+                </div>
+                <div id="inner">
+                <img src="/Users/leehan/Downloads/가격별 로드/domane.png" height="300px;" width="400px;">
+                </div>
+                <div id="inner">
+                <img src="/Users/leehan/Downloads/가격별 로드/scr2.jpg" height="300px;" width="400px;">
+                </div>
+            </div>
+            </div>
+            <div>
+            <button class = "버튼1"> 1 </button>
+            <button class = "버튼2"> 2 </button>
+            <button class = "버튼3"> 3 </button>
+            <button class = "버튼4"> 4 </button>
+            </div>
         <p>물론 더 싼 자전거들도 있는데 이런 자전거들은 자전거 입문 조건인 풀 클라리스에 부합하지 않고 프레임도 좋지 않다. 예를 들면 
             메리다 스컬트라 100 같은 경우 고가(300만원 이상)의 자전거들과 동일한 프레임을 쓴다. 
         </p>
@@ -47,5 +62,20 @@
         <pre style="font-size: 35px; text-align: center;"><i><b>Life is like riding a bicycle. To keep your balance, you must keep moving.
 
 - Albert Einstein</b></i></pre>
+        <script>
+    document.querySelector('.버튼1').addEventListener('click', function () {
+       document.querySelector('.container').style.transform = 'translate(0px)';
+   })
+   document.querySelector('.버튼2').addEventListener('click', function () {
+       document.querySelector('.container').style.transform = 'translate(-400px)';
+   })
+   document.querySelector('.버튼3').addEventListener('click', function () {
+       document.querySelector('.container').style.transform = 'translate(-800px)';
+   })
+   document.querySelector('.버튼4').addEventListener('click', function () {
+       document.querySelector('.container').style.transform = 'translate(-1200px)';
+   })
+   
+</script>
     </body>
     </html>
