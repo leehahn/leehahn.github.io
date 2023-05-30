@@ -28,39 +28,7 @@
     }
 .headright {width: 30%; height:50px; float: left; margin-top: 3px;}
     pre { display: inline; font-size: 15px;}
-    .menu { 
-        width: 100%;
-        overflow: hidden;
-        background-color: white;
-    }
-    .menu > li {
-        width: 20%;
-        float: left;
-        text-align: center;
-        line-height: 40px;
-        
-    }
-    .submenu > li {
-        display:block;
-        line-height: 50px;
-        background-color: #fafafa;
-        text-align: center;
-        margin-right: 40px;
-    }
-    .submenu {
-        height: 0;
-        overflow: hidden;
-    }
-    a:hover { color: red; }
-    .menu > li:hover {
-        background-color: #fafafa;
-        transition-duration: 0.5s;
-    }
-    .menu > li:hover .submenu {
-       
-        height: 150px;
-        transition-duration: 1s;
-    }
+
     #icon {font-family: Arial, Helvetica, sans-serif; font-style: italic; 
     font-size: 20px; text-align: left;}
     .logo {width: 300px; height: 150px;}
@@ -72,6 +40,15 @@
     }
     button { position: absolute; top: 70%; left: 40%; background-color: gainsboro;
     width: 120px; height: 50px; border-radius: 10px; font-size: 15px; border-color: aliceblue; }
+    
+    .menubar { background-color: #1E1F21; width: 100%; }
+    .menu { height: 40px; background-color: white; }
+    .menu > li { display: block; width: 20%; float: left; text-align: center; line-height: 40px; }
+    .submenu > li { display:block; line-height: 50px; background-color: #fafafa; text-align: center; margin-right: 40px; }
+    .submenu { height: 0; overflow: hidden; }
+    a:hover { color: red; }
+    .menu > li:hover { background-color: #fafafa; transition-duration: 0.5s; }
+    .menu > li:hover .submenu { height: 150px; transition-duration: 1s; }
     </style>
 </head>
 <body>
